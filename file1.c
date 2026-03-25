@@ -2,6 +2,7 @@
 #include<conio.h>
 int main()
 {
-    "hello world";
+    int a=10,b=20;
+    int sum=a+b;
+    printf("the sum is",sum);
 }
-update 
